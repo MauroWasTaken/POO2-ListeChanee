@@ -1,0 +1,7 @@
+C:\Users\maurx\source\repos\POO2-ListeChanee\POO2-ListeChanee\bin\Debug\POO2-ListeChanee.exe.config
+C:\Users\maurx\source\repos\POO2-ListeChanee\POO2-ListeChanee\bin\Debug\POO2-ListeChanee.exe
+C:\Users\maurx\source\repos\POO2-ListeChanee\POO2-ListeChanee\bin\Debug\POO2-ListeChanee.pdb
+C:\Users\maurx\source\repos\POO2-ListeChanee\POO2-ListeChanee\obj\Debug\POO2-ListeChanee.csprojAssemblyReference.cache
+C:\Users\maurx\source\repos\POO2-ListeChanee\POO2-ListeChanee\obj\Debug\POO2-ListeChanee.csproj.CoreCompileInputs.cache
+C:\Users\maurx\source\repos\POO2-ListeChanee\POO2-ListeChanee\obj\Debug\POO2-ListeChanee.exe
+C:\Users\maurx\source\repos\POO2-ListeChanee\POO2-ListeChanee\obj\Debug\POO2-ListeChanee.pdb
